@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>地点一</item>
+        <item>地点二</item>
+        <item>地点三</item>
+        <item>地点四</item>
+    </string-array>
+</resources>
